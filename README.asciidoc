@@ -1,0 +1,28 @@
+= ZAQRIT
+A repository for ZAQRIT.
+
+= Dependency
+* VuePress
+
+= Setup
+* Clone and install this project.
+```bash
+git clone https://github.com/rit-rit/zaqrit.git
+cd zaqrit
+npm install
+```
+
+= Usage
+* Run build command
+```bash
+npm run build
+```
+
+= License
+* MIT License
+
+= Authors
+* link:https://github.com/rit-rit[RIT80]
+
+= References
+* link:https://vuepress.vuejs.org/[VuePress]
