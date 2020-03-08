@@ -1,0 +1,27 @@
+{
+  "name": "zaqrit",
+  "version": "0.0.1",
+  "description": "Repository for ZAQRIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tsc && npx vuepress dev docs",
+    "tsc": "lerna run tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rit-rit/ZAQRIT.git"
+  },
+  "keywords": [
+    "ZAQRIT"
+  ],
+  "author": "RIT80",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rit-rit/ZAQRIT/issues"
+  },
+  "homepage": "https://github.com/rit-rit/ZAQRIT#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.32"
+  }
+}
